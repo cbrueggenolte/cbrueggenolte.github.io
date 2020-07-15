@@ -22,7 +22,7 @@ beside this website i have
 
 ## contact
 
-feel free to get in touch with me via any of the links at the top, or preferably, send me an [email] or drop me a line over [threema 2S96RXBJ][threema] or mention me on [twitter].
+feel free to get in touch with me via any of the links at the top, or preferably, send me an [email], preferably encrypted with my [pgp-key][pubkey], or drop me a line over [threema 2S96RXBJ][threema] or mention me on [twitter].
 
 
 [north rhein-westphalia]: https://en.wikipedia.org/wiki/north_rhine-westphalia
