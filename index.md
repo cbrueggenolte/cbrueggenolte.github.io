@@ -7,14 +7,9 @@
 [pubkey]: mail-cbrueggenolte-de.asc
 
 
-## i'm a software developer
-
-i write some code on do stuff on the internet. sometimes i also play some games.
-
 ## about me
 
-i grew up in a small town in [north rhein-westphalia]. 
-after dropping out of high school ([gymnasium]), i attended technical college and completed a three-year training as a state-certified information technology assistant. currently i am working for a big international it company in the hague in the netherlands. 
+i grew up in a small town in [north rhein-westphalia]. after dropping out of high school ([gymnasium]), i attended technical college and completed a three-year training as a state-certified information technology assistant. currently i am working for a big international it company in the hague in the netherlands. 
 
 i have a background in java development and i am quite good and hacking things together in bassh, batch, powershell or python. my current day job involes writing java code and handling lots of data in hundreds of excel spreadsheets. i do not really have a specific hobby but i like to mess around with things on the web, playing games and learning new stuff. 
 
