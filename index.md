@@ -4,7 +4,7 @@
 [tildepage]: https://tildeverse.org
 [now]: now
 [email]: mailto:mail@cbrueggenolte.de
-[pubkey]: mail-cbrueggenolte-de.asc
+[pubkey]: mail-at-cbrueggenolte-de.asc
 
 
 ## about me
