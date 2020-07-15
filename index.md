@@ -1,7 +1,14 @@
 ## hello, i'm carsten brueggenolte
 
-<put some links in here>
-  
+[github] [tildepage] [now] [email] [pubkey]
+
+[github]: https://github.com/cblte
+[tildepage]: https://tildeverse.org
+[now]: now
+[email]: mail@cbrueggenolte.de
+[pubkey]: mail-cbrueggenolte-de.asc
+
+
 ## i'm a software developer
 
 i write some code on do stuff on the internet. sometimes i also play some games.
