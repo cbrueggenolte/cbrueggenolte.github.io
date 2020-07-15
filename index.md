@@ -1,6 +1,6 @@
 ## hello, i'm carsten brueggenolte
 
-[github] [tildepage] [now] [email] [pubkey]
+[github] - [tildepage] -  [now] - [email] - [pubkey]
 
 [github]: https://github.com/cblte
 [tildepage]: https://tildeverse.org
