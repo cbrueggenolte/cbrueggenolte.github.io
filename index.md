@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+## hello, i'm carsten brueggenolte
 
-You can use the [editor on GitHub](https://github.com/cbrueggenolte/cbrueggenolte.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<put some links in here>
+  
+## i#m a software developer
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+i write some code on do stuff on the internet. sometimes i also play some games.
 
-### Markdown
+## about me
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+i grew up in a small town in [north rhein-westphalia](https://en.wikipedia.org/wiki/north_rhine-westphalia). 
+after dropping out of high school ([gymnasium](https://en.wikipedia.org/wiki/Gymnasium_(school))), i attended technical college and completed a three-year training as a state-certified information technology assistant. currently i am working for a big international it company in the hague in the netherlands. 
 
-```markdown
-Syntax highlighted code block
+i have a background in java development and i am quite good and hacking things together in bassh, batch, powershell or python. my current day job involes writing java code and handling lots of data in hundreds of excel spreadsheets. i do not really have a specific hobby but i like to mess around with things on the web, playing games and learning new stuff. 
 
-# Header 1
-## Header 2
-### Header 3
+## projects
 
-- Bulleted
-- List
+beside this website i have 
+- my own blog
+- my own teamspeak server
+- a discord instance 
 
-1. Numbered
-2. List
+## contact
 
-**Bold** and _Italic_ and `Code` text
+feel free to get in touch with me via any of the links at the top, or preferably, send me an [email] or drop me a line over [threema]: 2S96RXBJ or mention me on [twitter].
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[email]: mail@cbrueggenolte.de
+[threema]: https://threema.id/2S96RXBJ
+[twitter]: https://twitter.com/cblte
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cbrueggenolte/cbrueggenolte.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
