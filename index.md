@@ -5,7 +5,7 @@
 [github]: https://github.com/cblte
 [tildepage]: https://tildeverse.org
 [now]: now
-[email]: mail@cbrueggenolte.de
+[email]: mailto:mail@cbrueggenolte.de
 [pubkey]: mail-cbrueggenolte-de.asc
 
 
@@ -34,7 +34,7 @@ feel free to get in touch with me via any of the links at the top, or preferably
 
 [north rhein-westphalia]: https://en.wikipedia.org/wiki/north_rhine-westphalia
 [gymnasium]: https://en.wikipedia.org/wiki/Gymnasium_(school)
-[email]: mail@cbrueggenolte.de
+[email]: mailto:mail@cbrueggenolte.de
 [threema]: https://threema.id/2S96RXBJ
 [twitter]: https://twitter.com/cblte
 
