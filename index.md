@@ -4,7 +4,7 @@
 [tildepage]: https://tildeverse.org
 [now]: now
 [email]: mailto:mail@cbrueggenolte.de
-[pubkey]: mail-at-cbrueggenolte-de.asc
+[pubkey]: mail-at-cbrueggenolte-de-9A7FFAD2EF0E4E8A.asc
 
 
 ## about me
@@ -22,7 +22,7 @@ beside this website i have
 
 ## contact
 
-feel free to get in touch with me via any of the links at the top, or preferably, send me an [email], preferably encrypted with my [pgp-key][pubkey], or drop me a line over [threema 2S96RXBJ][threema] or mention me on [twitter].
+feel free to get in touch with me via any of the links at the top, or preferably, send me an [email], preferably encrypted with my [pgp-key 9A7FFAD2EF0E4E8A][pubkey], or drop me a line over [threema 2S96RXBJ][threema] or mention me on [twitter].
 
 
 [north rhein-westphalia]: https://en.wikipedia.org/wiki/north_rhine-westphalia
